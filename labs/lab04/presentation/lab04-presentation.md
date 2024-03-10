@@ -1,8 +1,8 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Структура научной презентации
-subtitle: Простейший шаблон
+title: Лабораторная №4
+subtitle: Отчёт-презентация
 author:
   - Захаров А.П.
 institute:
